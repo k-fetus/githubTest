@@ -8,6 +8,6 @@ public class test {
 	}
 	
 	public void newclass() {
-		System.out.print("This is a test2");
+		System.out.print("This is a testing");
 	}
 }
